@@ -1,4 +1,4 @@
-# AIMS SLAM - CMU AI MakerSpace
+# AIMS VisualSLAM
 
 This repository provides a ROS2-based SLAM development framework for robotics projects at the CMU AI MakerSpace.  
 
