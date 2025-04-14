@@ -48,7 +48,7 @@ This repository has been tested and validated on the following configurations:
 | ROS2 Distribution | Ubuntu Version  |
 |------------------|-----------------|
 | Foxy              | 20.04           |
-| Humble            | 20.04           |
+| Humble            | 22.04           |
 
 ---
 
